@@ -4,6 +4,8 @@ This is a demo project using the [Earth Engine-BigQuery connector](https://cloud
 
 https://github.com/user-attachments/assets/d90b4773-f842-4250-bbe9-32036de65af0
 
+Check out the accompanying [blog post](https://www.aazuspan.dev/blog/summarizing-51-years-of-landsat-data/) for more details.
+
 ## Setup
 
 Install Python dependencies from PyPI.
