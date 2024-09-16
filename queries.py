@@ -180,7 +180,9 @@ def visualize_clear_scenes_by_location(client: bigquery.Client) -> None:
 
     cb.outline.set_visible(False)
 
-    # update(51)
+    update(51)
+    plt.savefig("./output/clear_scenes_2023.png", dpi=150)
+
     ani = FuncAnimation(fig, update, frames=52, interval=30)
     dst = "./output/clear_scenes_1972-2023.mp4"
     ani.save(dst, fps=2.5, dpi=150)
