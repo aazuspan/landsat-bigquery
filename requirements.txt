@@ -1,0 +1,5 @@
+earthengine-api
+google-cloud-bigquery[pandas, geopandas, bqstorage]
+plotly
+matplotlib
+kaleido
