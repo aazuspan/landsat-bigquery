@@ -1,8 +1,8 @@
 # Summarizing Landsat with BigQuery
 
-This is a demo project using the [Earth Engine-BigQuery connector](https://cloud.google.com/blog/products/data-analytics/new-bigquery-connector-to-google-earth-engine) to export every Landsat scene to a BigQuery table where they can be queried, summarized, and visualized.
+This is a demo project using the [Earth Engine-BigQuery connector](https://cloud.google.com/blog/products/data-analytics/new-bigquery-connector-to-google-earth-engine) to export every Landsat scene to a BigQuery table where they can be queried, summarized, and visualized to create the animation below.
 
-![Clear Landsat scenes by path, row, and year, 1972 - 2023](/output/clear_scenes_1972-2023.mp4)
+https://github.com/user-attachments/assets/d90b4773-f842-4250-bbe9-32036de65af0
 
 ## Setup
 
